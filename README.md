@@ -1,6 +1,7 @@
 
 # dockerized-rails-activeadmin-app
 
+[![Rails version](https://img.shields.io/badge/rails-5.1.5-red.svg)](https://github.com/christianascone/dockerized-rails-activeadmin-app)
 [![GitHub license](https://img.shields.io/github/license/christianascone/dockerized-rails-activeadmin-app.svg)](https://github.com/christianascone/dockerized-rails-activeadmin-app/blob/master/LICENSE)
 
 ## Requirements
