@@ -55,3 +55,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'activeadmin'
 gem 'devise'
+
+# Fix for security vulnerabilities
+gem 'loofah', '~> 2.2.1'
